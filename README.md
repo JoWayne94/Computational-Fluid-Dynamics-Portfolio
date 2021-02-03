@@ -14,6 +14,8 @@ Files:
 3. PlotCFD.mlx - Live script to generate plots required using data obtained in File 4.
 4. Output.txt - Output file of File 2.
 
+=================================================  
+
 **CFD Coursework 2** 
 
 The objective of this assignment is the development of a computer code and the assessment of its results for the solution to the 1D Euler equations using the Steger and Warming (1981) Flux Vector Splitting method. The method will be applied to the solution of the Riemann shock tube problem.
