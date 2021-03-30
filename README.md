@@ -2,7 +2,7 @@
 
 **AERO96014 - Fundamentals of Computational Fluid Dynamics**
 
-This respository contains 2 sets of files (for now) written in C++ & MATLAB fulfilling the Imperial Aeronautics module.
+This respository contains 2 sets of files written in C++ & MATLAB fulfilling the Imperial Aeronautics module.
 
 **CFD Coursework 1** (90%)
 
@@ -18,7 +18,7 @@ Files:
 
 **CFD Coursework 2** (100%)
 
-The objective of this assignment is the development of a computer code and the assessment of its results for the solution to the 1D Euler equations using the Steger and Warming (1981) Flux Vector Splitting method. The method will be applied to the solution of the Riemann shock tube problem.
+The objective of this assignment is the development of a computer code and the assessment of its results for the solution to the 1D Euler equations using the Steger and Warming (1981) Flux Vector Splitting method. The method is applied to the solution of the Riemann shock tube problem.
 
 Files:  
 1. Jo Wayne Tan CFD Coursework 2.pdf - Final Report  
